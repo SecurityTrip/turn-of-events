@@ -44,6 +44,12 @@
 - **Media Service:** Обработка и хранение мультимедийных файлов (изображения, видео).
 - **Analytics Service:** Сбор и анализ статистических данных о работе сервиса.
 
+<picture>
+
+ <img alt="APPLICATION ARCHITECTURE" src="https://github.com/algorithm-ssau/turn-of-events/blob/master/APP%20ARCHITECTURE.jpg">
+</picture>
+
+
 Также используются вспомогательные компоненты:
 - **Service Discovery & Registry:** Автоматическое обнаружение микросервисов.
 - **Centralized Configuration Service:** Централизованное управление конфигурацией.
@@ -75,8 +81,8 @@
 
 
 # Вклад в проект
-* Лысов Илья [SecurityTrip](https://github.com/SecurityTrip) - Капитан команды, 
+* Лысов Илья [SecurityTrip](https://github.com/SecurityTrip) - Team Lead, Backend 
 * Лебедев Евгений [F4NTOM41K](https://github.com/F4NTOM41K) - 
-* Михальчук Данила [ded-mikhalych](https://github.com/ded-mikhalych) - 
+* Михальчук Данила [ded-mikhalych](https://github.com/ded-mikhalych) - Backend
 * Паршин Никита [Withotic](https://github.com/Withotic) - 
-* Дагаев Давнила [Repkol](https://github.com/Repkol) - 
+* Дагаев Данила [Repkol](https://github.com/Repkol) - 
