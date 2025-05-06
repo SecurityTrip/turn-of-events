@@ -1,0 +1,27 @@
+/* Импортируем общие стили для .section-title из UpcomingEvents.css */
+@import '../UpcomingEvents/UpcomingEvents.css';
+
+.events {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  padding: 0 15px;
+}
+
+/* Стили для сетки карточек с использованием bootstrap grid */
+.events .row {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.events .col {
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .events {
+    gap: 10px;
+  }
+}
